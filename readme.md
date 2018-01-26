@@ -11,4 +11,4 @@ Apart from gaining practical skills on Internet of Things technology,i learned a
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jTYCl8GyCnQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=jTYCl8GyCnQ)
