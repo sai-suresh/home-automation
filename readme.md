@@ -11,4 +11,4 @@ Apart from gaining practical skills on Internet of Things technology,i learned a
 
 
 
-[![Alt text](https://img.youtube.com/vi/jTYCl8GyCnQ/0.jpg)](https://www.youtube.com/watch?v=jTYCl8GyCnQ)
+[![project demo](https://img.youtube.com/vi/jTYCl8GyCnQ/0.jpg)](https://www.youtube.com/watch?v=jTYCl8GyCnQ)
