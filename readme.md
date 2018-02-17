@@ -2,12 +2,12 @@
 
 PROJECT DETAILS:
 
-This is a project in which i built an IoT based electronic device that forms the basis of smart buidings.
-Smart buildings are the ones where various parameters like temperature, lights, water etc. are monitored and analysed so as to make it highly efficient. 
-In this project, i worked on smart lights in a smart building and learned how to develop such a system and how to send data from such a system to the cloud for analysis. 
-The project i develop can sense the number of occupants in the meeting room with the help of PIR sensors and automatically switch the lights ON/ OFF based on occupancy. 
-I was able to analyse the usage of the meeting room, number of persons at various times of the day, the time for which lights are on and the power consumed.
-Apart from gaining practical skills on Internet of Things technology,i learned about Arduino Architecture, Arduino Programming, Calibration of PIR Sensors and ESP 8266 by doing this project.
+The project uses Arduino Uno that forms the basis of the home automation system, The system developed can sense the number of occupants in the room with the help of PIR sensors and automatically switch the lights ON/ OFF based on occupancy. 
+The system uses an ESP8266 module that connects Arduino to a Wi-Fi network and makes simple TCP/IP connections using Hayes commands.
+The ESP8266 module further sends data from such a system to the ThingSpeak cloud for data analysis.
+For this, the system makes use of bulb to demonstrate AC loads and uses 5V Relay module to switch the bulb and use the Arduino to control the relay.
+
+ 
 
 
 
