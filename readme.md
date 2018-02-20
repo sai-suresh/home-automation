@@ -14,10 +14,19 @@ Hardware Required:
 
 PROJECT DETAILS:
 
+<<<<<<< HEAD
 The project uses Arduino Uno that forms the basis of home automation system,The system developed can sense the number of occupants in the room with the help of PIR sensors and automatically switch the lights ON/ OFF based on occupancy. 
 The system uses ESP8266 module that connects Arduino to a Wi-Fi network and make simple TCP/IP connections using Hayes commands.
 ESP8266 module further sends data from such a system to the ThingSpeak cloud for data analysis.
 For this the system makes use of bulb to demonstrate AC loads and uses 5V Relay module to switch the bulb and use the Arduino to control the relay.
+=======
+The project uses Arduino Uno that forms the basis of the home automation system, The system developed can sense the number of occupants in the room with the help of PIR sensors and automatically switch the lights ON/ OFF based on occupancy. 
+The system uses an ESP8266 module that connects Arduino to a Wi-Fi network and makes simple TCP/IP connections using Hayes commands.
+The ESP8266 module further sends data from such a system to the ThingSpeak cloud for data analysis.
+For this, the system makes use of bulb to demonstrate AC loads and uses 5V Relay module to switch the bulb and use the Arduino to control the relay.
+
+ 
+>>>>>>> fdf43256d76c9420031d9518deb4cceb08099d97
 
 
 
